@@ -21,13 +21,13 @@ The Glovo Management System is a Python application designed to facilitate the m
 
 ## Screenshots
 
-![Screenshot](screenshot1.png)
+![Screenshot](Screenshot1.png)
 
 
-![Screenshot](screenshot2.png)
+![Screenshot](Screenshot2.png)
 
 
-![Screenshot](screenshot3.png)
+![Screenshot](Screenshot3.png)
 
 
 ## How to Run
